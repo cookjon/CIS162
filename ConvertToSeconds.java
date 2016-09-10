@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class ConvertToSeconds here.
+ * ConvertToSeconds
  * 
- * @Djenan Vujinovic & Jon Cook 
- * @9/17/2016
+ * Cookjon
+ * 9/7/2016
  */
 import java.util.Scanner;
 public class ConvertToSeconds
