@@ -1,14 +1,14 @@
 /** * Write a description of class MyName here. *  
 
- * @Djenan Vujinovic (your name)  
+ * Cookjon
 
- * @8/31/2016 (a version number or a date) */
+ * 8/31/2016
 import java.util.Scanner;
 public class MyName{   
 
         public static void main(String args[]) {       
-        int age = 19;       
-        System.out.println("My name is Djenan Vujinovic. I am "+age+" years old.");       
+        int age = 21;       
+        System.out.println("My name is Jonathan Cook. I am "+age+" years old.");       
         return;   
 
    }
