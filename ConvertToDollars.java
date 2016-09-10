@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class ConvertToDollars here.
+ * ConvertToDollars
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * Cookjon
+ * 9/7/2016
  */
 import java.util.Scanner;
 import java.text.DecimalFormat;
